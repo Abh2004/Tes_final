@@ -1,0 +1,8 @@
+/* body
+{
+    background: url("https://muffingroup.com/blog/wp-content/uploads/2021/03/gr.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+} */
+body { width: 100vw; min-height: 100vh; background: url("https://muffingroup.com/blog/wp-content/uploads/2021/03/gr.jpg"); background-size: cover; color: white; }
+

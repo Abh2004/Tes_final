@@ -1,0 +1,15 @@
+body{
+    background: url("https://free4kwallpapers.com/uploads/originals/2020/05/13/-insane-sunset-environment-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.nav{
+    color: white;
+    font-size: x-large;
+    padding: 5px;
+}
+.btn{
+    padding-right: 60px;
+    padding-top: 10px;
+}
